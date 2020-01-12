@@ -1,3 +1,4 @@
+/* Comment made in EG7.15 - testing commit to Git */
 data ratings;
 length stars 8 rating $ 15;
 infile datalines dsd;
