@@ -1,5 +1,5 @@
-/* Comment made in EG7.15 - testing commit to Git */
-/* Made another comment - this time from EG8.2 - 2nd time*/
+/* Comment made in EG7.15 - testing commit to Git - 2nd go*/
+/* Made another comment - this time from EG8.2 */
 data ratings;
 length stars 8 rating $ 15;
 infile datalines dsd;
