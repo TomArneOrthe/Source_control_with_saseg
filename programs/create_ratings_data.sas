@@ -7,6 +7,7 @@ line comment here  - with some more*/
 data ratings;
 length stars 8 rating $ 15;
 infile datalines dsd;
+* comment;
 input stars rating;
 datalines;
 1, Hated it
@@ -15,3 +16,5 @@ datalines;
 4, Really liked it
 5, Loved it
 ;
+
+/* Comment made in 8.2 at SSB */
