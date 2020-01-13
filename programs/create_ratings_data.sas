@@ -2,6 +2,8 @@
 /* Made yet another comment - this time from EG8.2 */
 /* Also added a new multi-
 line comment here  - with some more*/
+/* Change from a completely different view */
+
 data ratings;
 length stars 8 rating $ 15;
 infile datalines dsd;
